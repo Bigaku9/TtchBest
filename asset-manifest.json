@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TtchBest/static/css/main.3292250f.css",
-    "main.js": "/TtchBest/static/js/main.f741b003.js",
+    "main.js": "/TtchBest/static/js/main.bc975c76.js",
     "index.html": "/TtchBest/index.html",
     "static/media/search.svg": "/TtchBest/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.3292250f.css.map": "/TtchBest/static/css/main.3292250f.css.map",
-    "main.f741b003.js.map": "/TtchBest/static/js/main.f741b003.js.map"
+    "main.bc975c76.js.map": "/TtchBest/static/js/main.bc975c76.js.map"
   },
   "entrypoints": [
     "static/css/main.3292250f.css",
-    "static/js/main.f741b003.js"
+    "static/js/main.bc975c76.js"
   ]
 }
