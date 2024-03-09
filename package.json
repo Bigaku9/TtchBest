@@ -1,7 +1,7 @@
 {
-  "homepage": "https://bigaku9.github.io/TtchBest/",
   "name": "my_react_project",
   "version": "0.1.0",
+  "homepage": "https://bigaku9.github.io/TtchBest/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
